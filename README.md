@@ -1,12 +1,8 @@
-![logo](https://github.com/MihirJaiswal/MiihrJaiswal/blob/main/github.jpg)
+[![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)](https://MihirJaiswal.io)
 <h1 align="center">Hi 👋, I'm Mihir Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img aligm="left" alt="coding" width="400" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="mihirjaiswal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihirjaiswal" alt="mihirjaiswal" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, React**
 
@@ -31,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirjaiswal&show_icons=true&locale=en" alt="mihirjaiswal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&" alt="mihirjaiswal" /></p>
-
