@@ -1,6 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)](https://MihirJaiswal.io)
-<h1 align="center">Hi 👋, I'm Mihir Jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Mihir.;I+love+open-source.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=60"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="mihirjaiswal" /> </p>
 
