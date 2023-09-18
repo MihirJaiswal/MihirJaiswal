@@ -15,11 +15,6 @@
 
 - 📫 How to reach me **jaiswalmihir.business@gmail.com**
 
-- ⚡ Fun fact **"I am a code sorcerer ☕🧙‍♂️, brewing web spells with JavaScript and sipping on the elixir of creativity. Welcome to my digital enchantment realm! 💻🔮**
-
-
-
-
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/>
@@ -45,3 +40,10 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mihirjaiswal}/count.svg"></p>
 
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+Hello, I'm Mihir Jaiswal, a passionate frontend developer hailing from the vibrant landscapes of India. Currently in my third year of college, I find immense joy in the world of web development, constantly seeking opportunities to expand my knowledge and skills.
+
+JavaScript, with its endless possibilities, has captured my attention, and I'm on an exciting journey of discovery within this dynamic language. I thrive on solving problems, and every coding challenge is an adventure I eagerly embark upon.
+
+As a child, my love for drawing and creating imaginative works of art ignited a spark within me that ultimately led me down the path of becoming a developer. The ability to translate my creativity into digital landscapes and craft visually captivating websites has been an incredibly fulfilling journey.
