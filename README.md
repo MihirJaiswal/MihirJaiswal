@@ -43,7 +43,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-Hello, I'm Mihir Jaiswal, a passionate frontend developer hailing from the vibrant landscapes of India. Currently in my third year of college, I find immense joy in the world of web development, constantly seeking opportunities to expand my knowledge and skills.
+Hello, I'm Mihir Jaiswal, a passionate frontend developer from India. Currently in my third year of college, I find immense joy in the world of web development and Artificial Intelligence, constantly seeking opportunities to expand my knowledge and skills.
 
 JavaScript, with its endless possibilities, has captured my attention, and I'm on an exciting journey of discovery within this dynamic language. I thrive on solving problems, and every coding challenge is an adventure I eagerly embark upon.
 
