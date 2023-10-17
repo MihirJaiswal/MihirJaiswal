@@ -47,4 +47,4 @@ Hello, I'm Mihir Jaiswal, a passionate frontend developer from India. Currently 
 
 JavaScript, with its endless possibilities, has captured my attention, and I'm on an exciting journey of discovery within this dynamic language. I thrive on solving problems, and every coding challenge is an adventure I eagerly embark upon.
 
-As a child, my love for drawing and creating imaginative works of art ignited a spark within me that ultimately led me down the path of becoming a developer. The ability to translate my creativity into digital landscapes and craft visually captivating websites has been an incredibly fulfilling journey.    
+As a child, my love for drawing and creating imaginative works of art ignited a spark within me that ultimately led me down the path of becoming a developer. The ability to translate my creativity into digital landscapes and craft visually captivating websites has been an incredibly fulfilling journey.
