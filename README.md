@@ -9,7 +9,7 @@
 <a href="https://instagram.com/mihir_jaiswal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihir_jaiswal_" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **Express.js, React**
 
 - 💬 Ask me about **HTML,CSS, JavaScript**
 
