@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Express.js, MongoDB**
 
-- 💬 Ask me about **HTML,CSS, JavaScript**
+- 💬 Ask me about **HTML,CSS, JavaScript, React, Data Science**
 
 - 📫 How to reach me **jaiswalmihir.business@gmail.com**
 
