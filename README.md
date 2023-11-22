@@ -31,7 +31,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,scss,git,github,postman,threejs,python,tensorflow,vscode,gcp,canva&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,scss,git,github,postman,threejs,python,tensorflow,vscode,gcp,canva&theme=dark" />
   </a>
 </p>
 </br>
