@@ -1,7 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)](https://MihirJaiswal.io)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hi+I+am+Mihir;I+love+learning;I+love+Open+Source)](https://git.io/typing-svg)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mihirja73370412" target="blank"> <img src="https://skillicons.dev/icons?i=twitter" /></a>
