@@ -25,7 +25,7 @@
 
 
 
-## Languages and Tools
+# <img src="https://media1.giphy.com/media/bkQWB9NuklnpShjT7d/giphy.gif?cid=ecf05e477vdg9olqvi70o3bx6yhnufkc80zizj0nkpu33m0u&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40"> Languages and Tools
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,scss,git,github,postman,threejs,python,tensorflow,vscode,gcp,cs,unity,canva&theme=dark" />
