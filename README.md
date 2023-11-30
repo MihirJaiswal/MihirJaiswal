@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)](https://MihirJaiswal.io)
+[![MasterHead](https://iili.io/JxbR05g.webp)](https://MihirJaiswal.io)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hi+I+am+Mihir;I+love+learning;I+love+Open+Source)](https://git.io/typing-svg)
 <h3 align="center">Connect with me:</h3>
