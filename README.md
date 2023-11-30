@@ -19,7 +19,7 @@
 <br/>
 <p align="center">
   <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">		  
   </a>
 </p>
 <br>
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjaiswal&theme=tokyonight&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjaiswal&theme=tokyonight&bg_color=282828&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
