@@ -8,41 +8,43 @@
 <a href="https://instagram.com/mihir_jaiswal_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
+
+
 - 🌱 I’m currently learning **Express.js, MongoDB**
 
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Data Science**
 
 - 📫 How to reach me **jaiswalmihir.business@gmail.com**
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+  ---
 
-<br/>
-<p align="center">
-  <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">		  
-  </a>
-</p>
-<br>
-
-
-
+<p align="center">🚀 Profile views 🚀</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mihirjaiswal}/count.svg"></p>
 
 ## Languages and Tools
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,scss,git,github,postman,threejs,python,tensorflow,vscode,gcp,cs,unity,canva&theme=dark" />
   </a>
 </p>
 </br>
 
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+
 <p align="center">
-  <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjaiswal&theme=tokyonight&bg_color=282828&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  </a>
+<a href="http://torrinleonard.com/">
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjaiswal&theme=tokyonight&bg_color=282828&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <a href="https://www.torrinleonard.com/">
+          <img width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">
+        </a>
 </p>
 
-<h2 align="center">🚀 Profile views 🚀</h2>
-<p align="center"><img src="https://profile-counter.glitch.me/{mihirjaiswal}/count.svg"></p>
+
+
+---
+
+
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 <img align="right" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" />
