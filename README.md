@@ -51,7 +51,7 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="35">About Me
-<img align="right" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="40%" />
+<img align="right" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="45%" />
 
 Hello, I'm **Mihir Jaiswal**, a passionate frontend and game developer from India. Currently in my third year of college.
 I make games for fun! Some of my projects are pinned below make sure to check them out.
