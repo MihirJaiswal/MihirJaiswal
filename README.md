@@ -36,11 +36,11 @@
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 
-<p align="center">
+<p>
 <a href="http://torrinleonard.com/">
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjaiswal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     <a href="https://www.torrinleonard.com/">
-          <img width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">
+          <img align="center" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">
         </a>
 
 </p>
@@ -48,8 +48,10 @@
 
 
 ---
-
-  <img align="center"  alt="Mihir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirJaiswal&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" />
+<p>
+  <img align="center" width="54%"  alt="Mihir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirJaiswal&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" />   
+    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=MihirJaiswal&theme=tokyonight&rank_icon=github" alt="My GitHub Stats"/>
+</p>
 
   ---
 
