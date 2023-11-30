@@ -19,7 +19,7 @@
 <br/>
 <p align="center">
   <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=true">		  
   </a>
 </p>
 <br>
@@ -30,14 +30,14 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,scss,git,github,postman,threejs,python,tensorflow,vscode,gcp,cs,unity,canva&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,scss,git,github,postman,threejs,python,tensorflow,vscode,gcp,cs,unity,canva&theme=dark" />
   </a>
 </p>
 </br>
 
 <p align="center">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjaiswal&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjaiswal&theme=tokyonight&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
