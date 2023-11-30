@@ -18,8 +18,12 @@
 
   ---
 
-<p align="center">🚀 Profile views 🚀</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{mihirjaiswal}/count.svg"></p>
+<p align="center">
+  <h3 align="center">🚀 Profile views 🚀</h3>
+  <p align="center"><img src="https://profile-counter.glitch.me/{mihirjaiswal}/count.svg"></p>
+</p>
+
+
 
 ## Languages and Tools
 <p>
