@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello👋, I'm Mihir</br>
   
- <a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=38&duration=3000&pause=1000&color=blue&background=FFFFFF00&width=500&center=true&vCenter=true&&lines=I+Like;Data+Science;Web+Development;Game+Development" alt="Typing SVG" /></a> </h1>
+ <a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=30&duration=3000&pause=1000&color=blue&background=FFFFFF00&width=500&center=true&vCenter=true&&lines=I+Like;Data+Science;Web+Development;Game+Development" alt="Typing SVG" /></a> </h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
