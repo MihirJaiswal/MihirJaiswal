@@ -13,11 +13,17 @@
 
 
 
-- 🌱 I’m currently learning **Express.js, MongoDB**
+- 🔭 I’m currently working on **some games**
+  
+- 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Data Science**
+  
+- 👨‍💻 All of my projects are pinned below
 
 - 📫 How to reach me **jaiswalmihir.business@gmail.com**
+
+-  ⚡ Fun fact **I am Batman**
 
   ---
 
