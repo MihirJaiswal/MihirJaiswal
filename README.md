@@ -41,7 +41,7 @@ const Mihir = {
             "TypeScript", "Saas", "React.js"]
         },
         Game: {
-            langAndTools: ["c#", "Unity"]
+            langAndTools: ["C#", "Unity"]
         }
     }
 };
