@@ -2,8 +2,8 @@
 
 <h1 align="center">Hello👋, I'm Mihir Jaiswal</br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=mooli&pause=1000&size=28px&weight=600&color=06C611&background=C159FF05&center=true&vCenter=true&multiline=true&width=1100&lines=Web+Development+%7C%7C+Game+Development+%7C%7C+Artificial+Intelligence" alt="Typing SVG" /></a>
-</h1>
+  <a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=30&duration=3000&pause=1000&color=blue&background=FFFFFF00&width=1000&center=true&vCenter=true&&lines=Web+Development+%7C%7C+Game+Development+%7C%7C+Data+Science" alt="Typing SVG" /></a> </h1>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
