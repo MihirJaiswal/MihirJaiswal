@@ -37,11 +37,11 @@ const Mihir = {
     askMeAbout: ["Web", "Games", "AI", "Anime"],
     technologies: {
         Web: {
-            lang&Tools: ["HTML", "CSS", "JavaScript", 
+            langAndTools: ["HTML", "CSS", "JavaScript", 
             "TypeScript", "Saas", "React.js"]
         },
         Game: {
-            lang&Tools: ["c#", "Unity"]
+            langAndTools: ["c#", "Unity"]
         }
     }
 };
