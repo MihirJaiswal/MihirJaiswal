@@ -11,19 +11,48 @@
 <a href="https://instagram.com/mihir_jaiswal_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      
+- 🔭 I’m currently working on some games
 
+- 🌱 I’m currently learning Express.js,Three.js
 
-- 🔭 I’m currently working on **some games**
-  
-- 🌱 I’m currently learning **Express.js**
+- 💬 Ask me about HTML, CSS, JavaScript, React, Data Science
 
-- 💬 Ask me about **HTML,CSS, JavaScript, React, Data Science**
-  
 - 👨‍💻 All of my projects are pinned below
 
-- 📫 How to reach me **jaiswalmihir.business@gmail.com**
+- 📫 How to reach me jaiswalmihir.business@gmail.com
 
--  ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact I am Batman
+      
+</td>
+<td>
+  
+  ```javascript
+const Mihir = {
+    pronouns: "he" | "him",
+    Languages: ["JS", "TS", "C++", "PYTHON"],
+    askMeAbout: ["Web", "Games", "AI", "Anime"],
+    technologies: {
+        Web: {
+            lang&Tools: ["HTML", "CSS", "JavaScript", 
+            "TypeScript", "Saas", "React.js"]
+        },
+        Game: {
+            lang&Tools: ["c#", "Unity"]
+        }
+    }
+};
+
+```
+  </td>
+</tr>
+</table>
+
+
+
 
   ---
 
