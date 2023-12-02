@@ -17,7 +17,7 @@
       
 - 🔭 I’m currently working on some games
 
-- 🌱 I’m currently learning Express.js,Three.js
+- 🌱 I’m currently learning Express.js, Three.js, Unity
 
 - 💬 Ask me about HTML, CSS, JavaScript, React, Data Science
 
