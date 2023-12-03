@@ -77,7 +77,7 @@ const Mihir = {
 
 <p>
 
-<img align="right" width="413px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&locale=en" alt="MihirJaiswal" />
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&locale=en" alt="MihirJaiswal" />
   
   <img align="center" width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">
      
