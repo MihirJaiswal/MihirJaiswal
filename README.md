@@ -76,11 +76,11 @@ const Mihir = {
 
 
 <p>
-<a href="http://torrinleonard.com/">
+
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjaiswal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <a href="https://www.torrinleonard.com/">
-          <img align="center" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">
-        </a>
+  
+  <img align="center" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">
+     
 
 </p>
 
