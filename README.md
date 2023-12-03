@@ -77,9 +77,9 @@ const Mihir = {
 
 <p>
 
-<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&locale=en" alt="MihirJaiswal" />
+<img align="right" width="346px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&locale=en" alt="MihirJaiswal" />
   
-  <img align="center" width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">
+  <img align="center" width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjaiswal&theme=tokyonight&hide_border=false">
      
 
 </p>
@@ -88,7 +88,7 @@ const Mihir = {
 
 
 <p>
-  <img align="center" width="56%"  alt="Mihir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirJaiswal&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" />   
+  <img align="center" width="57%"  alt="Mihir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirJaiswal&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" />   
     
 </p>
 
