@@ -18,9 +18,9 @@
       
 - 🔭 I’m currently working on some games
 
-- 🌱 I’m currently learning Express.js, Three.js, Unity
+- 🌱 I’m currently learning Next.js
 
-- 💬 Ask me about HTML, CSS, JavaScript, React, Data Science
+- 💬 Ask me about HTML, CSS, JavaScript, React, node.js, Data Science
 
 - 👨‍💻 All of my projects are pinned below
 
@@ -67,7 +67,7 @@ const Mihir = {
 # <img src="https://media1.giphy.com/media/bkQWB9NuklnpShjT7d/giphy.gif?cid=ecf05e477vdg9olqvi70o3bx6yhnufkc80zizj0nkpu33m0u&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40"> Languages and Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,scss,git,github,postman,threejs,python,tensorflow,vscode,gcp,cs,unity,canva&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,tailwind,materialui,figma,js,ts,react,redux,threejs,nodejs,express,mongodb,git,github,postman,python,tensorflow,vscode,cs,unity,canva&theme=dark" />
   </a>
 </p>
 </br>
