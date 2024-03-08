@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mihirja73370412" target="blank"> <img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://www.linkedin.com/in/mihir-jaiswal-322898287/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+
 <a href="https://instagram.com/mihir_jaiswal_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
