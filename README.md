@@ -37,12 +37,12 @@ const Mihir = {
     Languages: ["JS", "TS", "C++", "PYTHON"],
     askMeAbout: ["Web", "Games", "AI", "Anime"],
     technologies: {
-        Web: {
+        Frontend: {
             langAndTools: ["HTML", "CSS", "JavaScript", 
-            "TypeScript", "Saas", "React.js"]
+            "TypeScript", "Tailwind", "React.js", "Next.js"]
         },
-        Game: {
-            langAndTools: ["C#", "Unity"]
+        Backend: {
+            langAndTools: ["Express.js", "node.js", "Mongodb"]
         }
     }
 };
