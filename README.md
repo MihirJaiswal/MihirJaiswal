@@ -16,11 +16,11 @@
   <tr>
     <td>
       
-- 🔭 I’m currently working on some games
+- 🔭 I’m currently working on my major project
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning docker and three.js
 
-- 💬 Ask me about HTML, CSS, JavaScript, React, node.js, Data Science
+- 💬 Ask me about HTML, CSS, JavaScript, React, nextjs, node.js, Data Science
 
 - 👨‍💻 All of my projects are pinned below
 
