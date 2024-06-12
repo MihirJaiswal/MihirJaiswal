@@ -67,7 +67,7 @@ const Mihir = {
 # <img src="https://media1.giphy.com/media/bkQWB9NuklnpShjT7d/giphy.gif?cid=ecf05e477vdg9olqvi70o3bx6yhnufkc80zizj0nkpu33m0u&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40"> Languages and Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,tailwind,materialui,figma,js,ts,react,redux,threejs,nodejs,express,mongodb,git,github,postman,python,tensorflow,vscode,cs,unity,canva&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,tailwind,materialui,figma,js,ts,react,redux,threejs,npm,nodejs,express,nextjs,mongodb,git,github,postman,python,tensorflow,vscode,canva &theme=dark" />
   </a>
 </p>
 </br>
@@ -97,7 +97,7 @@ const Mihir = {
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="35">About Me
 <img align="right" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="45%" />
  
-Hello, I'm **Mihir Jaiswal**, a passionate frontend and game developer from India. 
+Hello, I'm **Mihir Jaiswal**, a passionate web developer from India. 
 I make games for fun! Some of my projects are pinned below make sure to check them out.
 
 Thanks for visiting my github profile. Have a nice day ahead!
