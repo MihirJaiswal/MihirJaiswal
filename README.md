@@ -67,7 +67,7 @@ const Mihir = {
 # <img src="https://media1.giphy.com/media/bkQWB9NuklnpShjT7d/giphy.gif?cid=ecf05e477vdg9olqvi70o3bx6yhnufkc80zizj0nkpu33m0u&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40"> Languages and Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,tailwind,materialui,figma,js,ts,react,redux,threejs,npm,nodejs,express,nextjs,mongodb,git,github,postman,python,tensorflow,vscode,canva &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,tailwind,materialui,figma,js,ts,react,redux,threejs,npm,nodejs,express,nextjs,mongodb,git,github,postman,python,mysql,vscode,canva &theme=dark" />
   </a>
 </p>
 </br>
