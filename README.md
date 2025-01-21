@@ -20,7 +20,7 @@ I enjoy creating **games** for fun and working on exciting projects.
 ### 🌟 Highlights:
 - 🔭 I’m currently working on my **major project**.
 - 🌱 I’m learning **Docker** and **Three.js**.
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, **Node.js**, and **Data Science**.
+- 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**
 - 👨‍💻 Check out my pinned projects below.
 - 📫 Reach me at **jaiswalmihir.business@gmail.com**.
 - ⚡ Fun fact: **I am Batman**.
