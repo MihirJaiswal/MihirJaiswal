@@ -42,7 +42,12 @@ I enjoy creating **games** for fun and working on exciting projects.
 <p>
   <img align="right" width="344px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&locale=en" alt="Top Languages" />
   
-  [![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=MihirJaiswal&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+  <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app/?user=MihirJaiswal&theme=tokyonight&hide_border=false" width="340px" alt="GitHub Streak"/>
+  </a>
+</p>
+
 
 
 </p>
