@@ -44,7 +44,7 @@ I enjoy creating **games** for fun and working on exciting projects.
   
   <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app/?user=MihirJaiswal&theme=tokyonight&hide_border=false" width="500px" alt="GitHub Streak"/>
+    <img src="https://git-hub-streak-stats.vercel.app/?user=MihirJaiswal&theme=tokyonight&hide_border=false" width="480px" alt="GitHub Streak"/>
   </a>
 </p>
 
