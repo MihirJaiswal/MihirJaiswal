@@ -8,7 +8,6 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -25,7 +24,6 @@ I enjoy creating **games** for fun and working on exciting projects.
 - 📫 Reach me at **jaiswalmihir.business@gmail.com**.
 - ⚡ Fun fact: **I am Batman**.
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -35,7 +33,6 @@ I enjoy creating **games** for fun and working on exciting projects.
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -56,7 +53,6 @@ I enjoy creating **games** for fun and working on exciting projects.
   <img align="center" width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirJaiswal&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" alt="Contribution Graph" />
 </p>
 
----
 
 ## 🤝 Connect with Me
 
@@ -72,7 +68,6 @@ I enjoy creating **games** for fun and working on exciting projects.
   </a>
 </p>
 
----
 
 ## 🔧 Fun with Code
 
