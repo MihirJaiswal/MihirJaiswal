@@ -17,8 +17,8 @@ Hello, I'm **Mihir Jaiswal**, a passionate **Web Developer** from India.
 I enjoy creating **games** for fun and working on exciting projects.  
 
 ### 🌟 Highlights:
-- 🚀 Currently exploring advanced **web technologies** and **creative UI design**.
-- 💡 Passionate about building **interactive UI** and **creative web experiences**.
+- 🚀 Currently exploring advanced **web technologies**.
+- 💡 Passionate about building **interactive UI**.
 - 🎮 Love experimenting with **AI** and **visual effects** in spare time.
 - 📫 Reach me at **jaiswalmihir.business@gmail.com**.
 - ⚡ Fun fact: **I’m fueled by creativity and coffee.**
