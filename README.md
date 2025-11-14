@@ -74,6 +74,9 @@ I enjoy creating **games** for fun and working on exciting projects.
   <a href="https://www.linkedin.com/in/mihir-jaiswal/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://www.youtube.com/@MihirJaiswal-vn4vm">
+    <img src="https://api.iconify.design/logos:youtube-icon.svg" width="50" height="70" />
+  </a>
   <a href="https://instagram.com/mihir_jaiswal_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
