@@ -33,11 +33,8 @@ I enjoy creating **games** for fun and working on exciting projects.
 
 
 ## 📊 GitHub Stats
-
-<!-- Bento-style GitHub README layout (Languages on right) -->
 <table>
   <tr>
-    <!-- LEFT TOP - Streak -->
     <td width="65%" valign="top">
       <a href="https://git.io/streak-stats" target="_blank">
         <img
@@ -57,7 +54,6 @@ I enjoy creating **games** for fun and working on exciting projects.
   </tr>
 
   <tr>
-    <!-- LEFT BOTTOM - Contribution Graph -->
     <td valign="bottom">
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=MihirJaiswal&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15"
@@ -66,8 +62,7 @@ I enjoy creating **games** for fun and working on exciting projects.
       />
     </td>
   </tr>
-</table>
-
+</table
 
 
 ## 🤝 Connect with Me
