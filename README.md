@@ -47,7 +47,7 @@ I enjoy creating **games** for fun and working on exciting projects.
       />
       </a>
     </td>
-    <td width="35%" rowspan="2" valign="middle" align="center">
+    <td width="40%" rowspan="2" valign="middle" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&hide_border=false&locale=en"
         alt="Top Languages"
@@ -73,10 +73,10 @@ I enjoy creating **games** for fun and working on exciting projects.
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/mihirja73370412" target="_blank">
+  <a href="https://twitter.com/mihir_jaiswal_" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/mihir-jaiswal-322898287/" target="_blank">
+  <a href="https://www.linkedin.com/in/mihir-jaiswal/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/mihir_jaiswal_" target="_blank">
