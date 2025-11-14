@@ -18,10 +18,9 @@ I enjoy creating **games** for fun and working on exciting projects.
 
 ### 🌟 Highlights:
 - 🚀 Currently exploring advanced **web technologies**.
-- 💡 Passionate about building **interactive UI**.
 - 🎮 Love experimenting with **AI** and **visual effects** in spare time.
 - 📫 Reach me at **jaiswalmihir.business@gmail.com**.
-- ⚡ Fun fact: **I’m fueled by creativity and coffee.**
+- ⚡ Fun fact: **I’m Batman.**
 
 
 ## 🛠️ Technologies & Tools
