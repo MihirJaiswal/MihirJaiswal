@@ -34,22 +34,40 @@ I enjoy creating **games** for fun and working on exciting projects.
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="right" width="344px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&&hide_border=false&locale=en" alt="Top Languages" />
-  
-  <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app/?user=MihirJaiswal&theme=tokyonight&hide_border=false" width="480px" alt="GitHub Streak"/>
-  </a>
-</p>
+<!-- Bento-style GitHub README layout (Languages on right) -->
+<table>
+  <tr>
+    <!-- LEFT TOP - Streak -->
+    <td width="65%" valign="top">
+      <a href="https://git.io/streak-stats" target="_blank">
+        <img
+        src="https://git-hub-streak-stats.vercel.app/?user=MihirJaiswal&theme=tokyonight&hide_border=false"
+        alt="GitHub Streak"
+        style="width:100%; max-width:100%; display:block;"
+      />
+      </a>
+    </td>
+    <td width="35%" rowspan="2" valign="middle" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&hide_border=false&locale=en"
+        alt="Top Languages"
+        style="max-width:100%; display:block;"
+      />
+    </td>
+  </tr>
 
+  <tr>
+    <!-- LEFT BOTTOM - Contribution Graph -->
+    <td valign="bottom">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=MihirJaiswal&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15"
+        alt="Contribution Graph"
+        style="max-width:100%; display:block;"
+      />
+    </td>
+  </tr>
+</table>
 
-
-</p>
-
-<p>
-  <img align="center" width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirJaiswal&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" alt="Contribution Graph" />
-</p>
 
 
 ## 🤝 Connect with Me
