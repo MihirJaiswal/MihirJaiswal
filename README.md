@@ -35,7 +35,7 @@ I enjoy creating **games** for fun and working on exciting projects.
 ## 📊 GitHub Stats
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <a href="https://git.io/streak-stats" target="_blank">
         <img
         src="https://git-hub-streak-stats.vercel.app/?user=MihirJaiswal&theme=tokyonight&hide_border=false"
@@ -44,7 +44,7 @@ I enjoy creating **games** for fun and working on exciting projects.
       />
       </a>
     </td>
-    <td width="40%" rowspan="2" valign="middle" align="center">
+    <td width="50%" rowspan="2" valign="middle" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=10&theme=tokyonight&hide_border=false&locale=en"
         alt="Top Languages"
