@@ -46,7 +46,7 @@ I enjoy creating **games** for fun and working on exciting projects.
     </td>
     <td width="40%" rowspan="2" valign="middle" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=7&theme=tokyonight&hide_border=false&locale=en"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirJaiswal&show_icons=true&langs_count=10&theme=tokyonight&hide_border=false&locale=en"
         alt="Top Languages"
         style="max-width:100%; display:block;"
       />
