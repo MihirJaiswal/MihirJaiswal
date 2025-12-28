@@ -17,7 +17,7 @@ Hello, I'm **Mihir Jaiswal**, a passionate **Web Developer** from India.
 I enjoy creating **games** for fun and working on exciting projects.  
 
 ### 🌟 Highlights:
-- 🚀 Currently working at juspay as a design engineer.**
+- 🚀 Currently working at juspay as a **design engineer**.
 - 🎮 Love experimenting with **AI** and **Web Animation** in spare time.
 - 📫 Reach me at **jaiswalmihir.business@gmail.com**.
 - ⚡ Fun fact: **I’m Batman.**
