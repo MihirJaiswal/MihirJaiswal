@@ -15,7 +15,7 @@
 
 I’m Mihir Jaiswal, a full-stack developer currently working at Juspay. I focus on building clean, high-quality user experiences, with a strong emphasis on frontend and UI/UX while also working across backend systems.
 I’ve built products like Nyx UI and DigiBazar, combining design, performance, and real-world functionality. 
-<table width="100%">
+<table width="80%">
   <tr>
     <td align="left">
       <a href="https://twitter.com/mihir_jaiswal_">
