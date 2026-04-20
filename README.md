@@ -1,15 +1,23 @@
-[![MasterHead](https://iili.io/Jz3rzqN.gif)](https://MihirJaiswal.io)
-
-<h1 align="center">Hello 👋, I'm Mihir Jaiswal</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=25&duration=4000&pause=3000&color=blue&background=FFFFFF00&width=1000&center=true&vCenter=true&lines=Web+Development+%7C%7C+Game+Development+%7C%7C+Data+Science" alt="Typing SVG" />
-  </a>
-</p>
-
-
 <table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://MihirJaiswal.io">
+        <img src="https://iili.io/Jz3rzqN.gif" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h1>Hello 👋, I'm Mihir Jaiswal</h1>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=25&duration=4000&pause=3000&color=blue&background=FFFFFF00&width=1000&center=true&vCenter=true&lines=AI+%7C%7C+Product+%7C%7C+Design" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="60%" valign="top">
 
@@ -41,5 +49,3 @@ I’ve built products like Nyx UI and DigiBazar.
     </td>
   </tr>
 </table>
-
-
