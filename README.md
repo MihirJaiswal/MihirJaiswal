@@ -24,9 +24,11 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I’m Mihir Jaiswal, a full-stack developer currently working at Juspay.  
+I’m Mihir Jaiswal, a full-stack developer.  
 I focus on building clean, high-quality user experiences, with strong frontend and UI/UX, while also working across backend systems.  
-I’ve built products like Nyx UI and DigiBazar.
+I’ve built products like <a href="https://nyxui.com/"><bold>Nyx UI</bold></a>.
+  
+Currently at <a href="https://juspay.io/in">Juspay</a> building high-scale systems.
 </p>
 
 <p>
@@ -44,7 +46,7 @@ I’ve built products like Nyx UI and DigiBazar.
   </a>
 </p>
     </td>
-    <td width="40%" align="right">
+    <td width="50%" align="right">
       <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="100%" />
     </td>
   </tr>
